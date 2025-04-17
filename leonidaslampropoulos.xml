@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>329</fr:anchor>
+    <fr:addr type="user">leonidaslampropoulos</fr:addr>
+    <fr:route>leonidaslampropoulos.xml</fr:route>
+    <fr:title text="Leonidas Lampropolous">Leonidas Lampropolous</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:authors />
+    <fr:meta name="external">https://lemonidas.github.io/</fr:meta>
+    <fr:meta name="institution">
+      <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:link>
+    </fr:meta>
+    <fr:meta name="position">Assistant Professor</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>330</fr:anchor>
+            <fr:addr type="user">plum</fr:addr>
+            <fr:route>plum.xml</fr:route>
+            <fr:title text="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:title>
+            <fr:taxon>Lab</fr:taxon>
+            <fr:authors />
+            <fr:meta name="venue">
+              <fr:link type="local" href="umdcs.xml" addr="umdcs" title="University of Maryland Department of Computer Science">University of Maryland Department of Computer Science</fr:link>
+            </fr:meta>
+            <fr:meta name="external">https://plum-umd.github.io/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Contributions">Contributions</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>331</fr:anchor>
+            <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
+            <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
+            <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="benjaminquiring.xml" addr="benjaminquiring" title="Benjamin Quiring">Benjamin Quiring</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link type="local" href="leonidaslampropoulos.xml" addr="leonidaslampropoulos" title="Leonidas Lampropolous">Leonidas Lampropolous</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="doi">10.1145/3632919</fr:meta>
+            <fr:meta name="venue">
+              <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:link>
+            </fr:meta>
+            <fr:meta name="video">https://youtu.be/KkE-wVqUbVQ</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632919,
+  author = {Frank, Justin and Quiring, Benjamin and Lampropoulos, Leonidas},
+  title = {Generating Well-Typed Terms That Are Not “Useless”},
+  year = {2024},
+  issue_date = {January 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {8},
+  number = {POPL},
+  url = {https://doi.org/10.1145/3632919},
+  doi = {10.1145/3632919},
+  abstract = {},
+  journal = {Proc. ACM Program. Lang.},
+  month = jan,
+  articleno = {77},
+  numpages = {22},
+  keywords = {property-based testing, test generation, well-typed lambda terms}
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>Random generation of well-typed terms lies at the core of effective  
+random testing of compilers for functional languages.  
+Existing techniques have had success following a top-down  
+type-oriented approach to generation that makes choices locally, which  
+suffers from an inherent limitation: the type of an expression is  
+often generated independently from the expression itself.  
+Such generation frequently yields functions with argument types that cannot  
+be used to produce a result in a meaningful way, leaving those  
+arguments unused.  
+Such "use-less" functions can hinder both performance, as the  
+argument generation code is dead but still needs to be compiled, and  
+effectiveness, as a lot of interesting optimizations are tested less  
+frequently.</fr:p>
+            <fr:p>In this paper, we introduce a novel algorithm that is significantly  
+more effective at generating functions that use their arguments.  
+We formalize both the "local" and the "nonlocal" algorithms as  
+step-relations in an extension of the simply-typed lambda calculus  
+with type and arguments holes, showing how delaying the generation of  
+types for subexpressions by allowing nonlocal generation steps leads  
+to "useful" functions.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

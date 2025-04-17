@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>267</fr:anchor>
+    <fr:addr type="machine">#243</fr:addr>
+    <fr:route>unstable-243.xml</fr:route>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+      </fr:author>
+    </fr:authors>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>258</fr:anchor>
+        <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
+        <fr:route>geller-frank-bowman-2024.xml</fr:route>
+        <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
+        <fr:taxon>Reference</fr:taxon>
+        <fr:date>
+          <fr:year>2024</fr:year>
+          <fr:month>1</fr:month>
+          <fr:day>5</fr:day>
+        </fr:date>
+        <fr:authors>
+          <fr:author>adamtgeller</fr:author>
+          <fr:author>
+            <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+          </fr:author>
+          <fr:author>williamjbowman</fr:author>
+        </fr:authors>
+        <fr:meta name="doi">10.1145/3632922</fr:meta>
+        <fr:meta name="venue">
+          <fr:link type="external" href="popl-2025">popl-2025</fr:link>
+        </fr:meta>
+        <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632922,
+author = {Geller, Adam T. and Frank, Justin and Bowman, William J.},
+title = {Indexed Types for a Statically Safe WebAssembly},
+year = {2024},
+issue_date = {January 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {POPL},
+url = {https://doi.org/10.1145/3632922},
+doi = {10.1145/3632922},
+journal = {Proc. ACM Program. Lang.},
+month = jan,
+articleno = {80},
+numpages = {30},
+keywords = {Indexed Types, Optimization and Compiler Design, Program Logics, Type Systems, WebAssembly}
+}]]></fr:meta>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:p>We present Wasm-prechk, a superset of WebAssembly (Wasm) that uses indexed types to express and check simple constraints over program values. This additional static reasoning enables safely removing dynamic safety checks from Wasm, such as memory bounds checks. We implement Wasm-prechk as an extension of the Wasmtime compiler and runtime, evaluate the run-time and compile-time performance of Wasm-prechk vs WebAssembly configurations with explicit dynamic checks, and find an average run-time performance gain of 1.71x faster in the widely used PolyBenchC benchmark suite, for a small overhead in binary size (7.18% larger) and type-checking time (1.4% slower). We also prove type and memory safety of Wasm-prechk, prove Wasm safely embeds into Wasm-prechk ensuring backwards compatibility, prove Wasm-prechk type-erases to Wasm, and discuss design and implementation trade-offs.</fr:p>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Context">Context</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>269</fr:anchor>
+            <fr:addr type="user">jpf-pubs</fr:addr>
+            <fr:route>jpf-pubs.xml</fr:route>
+            <fr:title text="Justine Frank's Publications"><fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>'s Publications</fr:title>
+            <fr:taxon>Bibliography</fr:taxon>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>254</fr:anchor>
+                <fr:addr type="machine">#242</fr:addr>
+                <fr:route>unstable-242.xml</fr:route>
+                <fr:title text="Accepted papers">Accepted papers</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>256</fr:anchor>
+                    <fr:addr type="machine">#243</fr:addr>
+                    <fr:route>unstable-243.xml</fr:route>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>258</fr:anchor>
+                        <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
+                        <fr:route>geller-frank-bowman-2024.xml</fr:route>
+                        <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
+                        <fr:taxon>Reference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>1</fr:month>
+                          <fr:day>5</fr:day>
+                        </fr:date>
+                        <fr:authors>
+                          <fr:author>adamtgeller</fr:author>
+                          <fr:author>
+                            <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                          </fr:author>
+                          <fr:author>williamjbowman</fr:author>
+                        </fr:authors>
+                        <fr:meta name="doi">10.1145/3632922</fr:meta>
+                        <fr:meta name="venue">
+                          <fr:link type="external" href="popl-2025">popl-2025</fr:link>
+                        </fr:meta>
+                        <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632922,
+author = {Geller, Adam T. and Frank, Justin and Bowman, William J.},
+title = {Indexed Types for a Statically Safe WebAssembly},
+year = {2024},
+issue_date = {January 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {POPL},
+url = {https://doi.org/10.1145/3632922},
+doi = {10.1145/3632922},
+journal = {Proc. ACM Program. Lang.},
+month = jan,
+articleno = {80},
+numpages = {30},
+keywords = {Indexed Types, Optimization and Compiler Design, Program Logics, Type Systems, WebAssembly}
+}]]></fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>We present Wasm-prechk, a superset of WebAssembly (Wasm) that uses indexed types to express and check simple constraints over program values. This additional static reasoning enables safely removing dynamic safety checks from Wasm, such as memory bounds checks. We implement Wasm-prechk as an extension of the Wasmtime compiler and runtime, evaluate the run-time and compile-time performance of Wasm-prechk vs WebAssembly configurations with explicit dynamic checks, and find an average run-time performance gain of 1.71x faster in the widely used PolyBenchC benchmark suite, for a small overhead in binary size (7.18% larger) and type-checking time (1.4% slower). We also prove type and memory safety of Wasm-prechk, prove Wasm safely embeds into Wasm-prechk ensuring backwards compatibility, prove Wasm-prechk type-erases to Wasm, and discuss design and implementation trade-offs.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

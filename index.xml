@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+  <fr:frontmatter>
+    <fr:anchor>281</fr:anchor>
+    <fr:addr type="user">index</fr:addr>
+    <fr:route>index.xml</fr:route>
+    <fr:title text="Justine Frank">
+      <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+    </fr:title>
+    <fr:authors>
+      <fr:author>
+        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:meta name="author">false</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:p>Hi! I am Justine Frank, I am currently in my 4th year as a Ph.D. student in the <fr:link type="external" href="https://plum-umd.github.io/">PLUM Lab</fr:link> at the <fr:link type="external" href="https://umd.edu/">University of Maryland College Park</fr:link>.
+  I am trying to find better ways to prove the correctness of programming language implementations, especially type systems and compilers.
+  Working with <fr:link type="external" href="https://msurbatovich.github.io/">Milijana Surbatovich</fr:link> and <fr:link type="external" href="https://lemonidas.github.io/">Leonidas Lampropoulos</fr:link>.</fr:p>
+    <fr:p>My CV can be found <fr:link type="external" href="cv.pdf">here</fr:link>.</fr:p>
+    <fr:p>In my free time I like to rock climb, bike and occasionally build mechanical keyboards.</fr:p>
+    <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>283</fr:anchor>
+        <fr:addr type="user">jpf-contact</fr:addr>
+        <fr:route>jpf-contact.xml</fr:route>
+        <fr:title text="Contact Info">Contact Info</fr:title>
+        <fr:authors>
+          <fr:author>
+            <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+          </fr:author>
+        </fr:authors>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:ul><fr:li>email: jpfrank [at] umd [dot] edu</fr:li>
+  <fr:li>github: <fr:link type="external" href="https://github.com/laelath/">laelath</fr:link></fr:li>
+  <fr:li>orcid: <fr:link type="external" href="https://orcid.org/0009-0007-7024-7331">0009-0007-7024-7331</fr:link></fr:li></fr:ul>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+    <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:anchor>285</fr:anchor>
+        <fr:addr type="user">jpf-pubs</fr:addr>
+        <fr:route>jpf-pubs.xml</fr:route>
+        <fr:title text="Publications">Publications</fr:title>
+        <fr:taxon>Bibliography</fr:taxon>
+        <fr:authors>
+          <fr:author>
+            <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+          </fr:author>
+        </fr:authors>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>253</fr:anchor>
+            <fr:addr type="machine">#242</fr:addr>
+            <fr:route>unstable-242.xml</fr:route>
+            <fr:title text="Accepted papers">Accepted papers</fr:title>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:meta name="author">false</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>255</fr:anchor>
+                <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
+                <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
+                <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
+                <fr:taxon>Reference</fr:taxon>
+                <fr:date>
+                  <fr:year>2024</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="benjaminquiring.xml" addr="benjaminquiring" title="Benjamin Quiring">Benjamin Quiring</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="leonidaslampropoulos.xml" addr="leonidaslampropoulos" title="Leonidas Lampropolous">Leonidas Lampropolous</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:meta name="doi">10.1145/3632919</fr:meta>
+                <fr:meta name="venue">
+                  <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:link>
+                </fr:meta>
+                <fr:meta name="video">https://youtu.be/KkE-wVqUbVQ</fr:meta>
+                <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632919,
+  author = {Frank, Justin and Quiring, Benjamin and Lampropoulos, Leonidas},
+  title = {Generating Well-Typed Terms That Are Not “Useless”},
+  year = {2024},
+  issue_date = {January 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {8},
+  number = {POPL},
+  url = {https://doi.org/10.1145/3632919},
+  doi = {10.1145/3632919},
+  abstract = {},
+  journal = {Proc. ACM Program. Lang.},
+  month = jan,
+  articleno = {77},
+  numpages = {22},
+  keywords = {property-based testing, test generation, well-typed lambda terms}
+}]]></fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>Random generation of well-typed terms lies at the core of effective  
+random testing of compilers for functional languages.  
+Existing techniques have had success following a top-down  
+type-oriented approach to generation that makes choices locally, which  
+suffers from an inherent limitation: the type of an expression is  
+often generated independently from the expression itself.  
+Such generation frequently yields functions with argument types that cannot  
+be used to produce a result in a meaningful way, leaving those  
+arguments unused.  
+Such "use-less" functions can hinder both performance, as the  
+argument generation code is dead but still needs to be compiled, and  
+effectiveness, as a lot of interesting optimizations are tested less  
+frequently.</fr:p>
+                <fr:p>In this paper, we introduce a novel algorithm that is significantly  
+more effective at generating functions that use their arguments.  
+We formalize both the "local" and the "nonlocal" algorithms as  
+step-relations in an extension of the simply-typed lambda calculus  
+with type and arguments holes, showing how delaying the generation of  
+types for subexpressions by allowing nonlocal generation steps leads  
+to "useful" functions.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>259</fr:anchor>
+                <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
+                <fr:route>geller-frank-bowman-2024.xml</fr:route>
+                <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
+                <fr:taxon>Reference</fr:taxon>
+                <fr:date>
+                  <fr:year>2024</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>5</fr:day>
+                </fr:date>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="adamtgeller.xml" addr="adamtgeller" title="Adam T. Geller">Adam T. Geller</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link type="local" href="williamjbowman.xml" addr="williamjbowman" title="William J. Bowman">William J. Bowman</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:meta name="doi">10.1145/3632922</fr:meta>
+                <fr:meta name="venue">
+                  <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:link>
+                </fr:meta>
+                <fr:meta name="video">https://youtu.be/mkTgnFrv7lI</fr:meta>
+                <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632922,
+  author = {Geller, Adam T. and Frank, Justin and Bowman, William J.},
+  title = {Indexed Types for a Statically Safe WebAssembly},
+  year = {2024},
+  issue_date = {January 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {8},
+  number = {POPL},
+  url = {https://doi.org/10.1145/3632922},
+  doi = {10.1145/3632922},
+  journal = {Proc. ACM Program. Lang.},
+  month = jan,
+  articleno = {80},
+  numpages = {30},
+  keywords = {Indexed Types, Optimization and Compiler Design, Program Logics, Type Systems, WebAssembly}
+}]]></fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:p>We present Wasm-prechk, a superset of WebAssembly (Wasm) that uses indexed types to express and check simple constraints over program values. This additional static reasoning enables safely removing dynamic safety checks from Wasm, such as memory bounds checks. We implement Wasm-prechk as an extension of the Wasmtime compiler and runtime, evaluate the run-time and compile-time performance of Wasm-prechk vs WebAssembly configurations with explicit dynamic checks, and find an average run-time performance gain of 1.71x faster in the widely used PolyBenchC benchmark suite, for a small overhead in binary size (7.18% larger) and type-checking time (1.4% slower). We also prove type and memory safety of Wasm-prechk, prove Wasm safely embeds into Wasm-prechk ensuring backwards compatibility, prove Wasm-prechk type-erases to Wasm, and discuss design and implementation trade-offs.</fr:p>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+      <fr:frontmatter>
+        <fr:title text="Related">Related</fr:title>
+        <fr:authors />
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>287</fr:anchor>
+            <fr:addr type="user">justinefrank</fr:addr>
+            <fr:route>justinefrank.xml</fr:route>
+            <fr:title text="Justine Frank">Justine Frank</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:authors />
+            <fr:meta name="external">https://todo.todo</fr:meta>
+            <fr:meta name="institution">
+              <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:link>
+            </fr:meta>
+            <fr:meta name="github">laelath</fr:meta>
+            <fr:meta name="orcid">0009-0007-7024-7331</fr:meta>
+            <fr:meta name="position">PhD Student</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:p>PhD Student in Programming Languages and Formal Verification in my 4th year at the University of Maryland College Park.
+  Working with <fr:link type="external" href="https://lemonidas.github.io/">Leonidas Lampropoulos</fr:link> and <fr:link type="external" href="https://msurbatovich.github.io/">Milijana Surbatovich</fr:link>.</fr:p>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+      </fr:mainmatter>
+      <fr:backmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
