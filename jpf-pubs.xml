@@ -181,7 +181,7 @@ to "useful" functions.</fr:p>
   I am trying to find better ways to prove the correctness of programming language implementations, especially type systems and compilers.
   Working with <fr:link type="external" href="https://msurbatovich.github.io/">Milijana Surbatovich</fr:link> and <fr:link type="external" href="https://lemonidas.github.io/">Leonidas Lampropoulos</fr:link>.</fr:p>
             <fr:p>My CV can be found <fr:link type="external" href="cv.pdf">here</fr:link>.</fr:p>
-            <fr:p>In my free time I like to rock climb, bike and occasionally build mechanical keyboards.</fr:p>
+            <fr:p>In my free time I like to rock climb, bike, and occasionally build mechanical keyboards.</fr:p>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
                 <fr:anchor>283</fr:anchor>
