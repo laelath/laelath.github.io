@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>344</fr:anchor>
+    <fr:anchor>351</fr:anchor>
     <fr:addr type="user">spl</fr:addr>
     <fr:route>spl.xml</fr:route>
     <fr:title text="Software Practices Lab">Software Practices Lab</fr:title>
@@ -23,7 +23,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>345</fr:anchor>
+            <fr:anchor>352</fr:anchor>
             <fr:addr type="user">adamtgeller</fr:addr>
             <fr:route>adamtgeller.xml</fr:route>
             <fr:title text="Adam T. Geller">Adam T. Geller</fr:title>
@@ -40,7 +40,7 @@
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>346</fr:anchor>
+            <fr:anchor>353</fr:anchor>
             <fr:addr type="user">williamjbowman</fr:addr>
             <fr:route>williamjbowman.xml</fr:route>
             <fr:title text="William J. Bowman">William J. Bowman</fr:title>
@@ -66,7 +66,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>347</fr:anchor>
+            <fr:anchor>354</fr:anchor>
             <fr:addr type="user">ubccs</fr:addr>
             <fr:route>ubccs.xml</fr:route>
             <fr:title text="Computer Science at UBC">Computer Science at UBC</fr:title>
