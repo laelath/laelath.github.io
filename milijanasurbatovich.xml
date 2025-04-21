@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>402</fr:anchor>
+    <fr:anchor>404</fr:anchor>
     <fr:addr type="user">milijanasurbatovich</fr:addr>
     <fr:route>milijanasurbatovich.xml</fr:route>
     <fr:title text="Milijana Surbatovich">Milijana Surbatovich</fr:title>
@@ -24,7 +24,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>403</fr:anchor>
+            <fr:anchor>405</fr:anchor>
             <fr:addr type="user">justinefrank</fr:addr>
             <fr:route>justinefrank.xml</fr:route>
             <fr:title text="Justine Frank">Justine Frank</fr:title>
@@ -34,13 +34,13 @@
             <fr:meta name="institution">
               <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:link>
             </fr:meta>
-            <fr:meta name="github">laelath</fr:meta>
             <fr:meta name="orcid">0009-0007-7024-7331</fr:meta>
             <fr:meta name="position">PhD Student</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
             <fr:p>PhD Student in Programming Languages and Formal Verification in my 4th year at the University of Maryland College Park.
   Working with <fr:link type="local" href="leonidaslampropoulos.xml" addr="leonidaslampropoulos" title="Leonidas Lampropolous">Leonidas Lampropolous</fr:link> and <fr:link type="local" href="milijanasurbatovich.xml" addr="milijanasurbatovich" title="Milijana Surbatovich">Milijana Surbatovich</fr:link>.</fr:p>
+            <fr:p>In 2020 I obtained a bachelor of science in computer science from the <fr:link type="local" href="ubc.xml" addr="ubc" title="University of British Columbia">University of British Columbia</fr:link>, and worked with the <fr:link type="local" href="spl.xml" addr="spl" title="Software Practices Lab">SPL</fr:link> until starting with <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">PLUM</fr:link> in fall 2021.</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
@@ -55,7 +55,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>404</fr:anchor>
+            <fr:anchor>406</fr:anchor>
             <fr:addr type="user">plum</fr:addr>
             <fr:route>plum.xml</fr:route>
             <fr:title text="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:title>

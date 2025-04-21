@@ -12,13 +12,13 @@
     <fr:meta name="institution">
       <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:link>
     </fr:meta>
-    <fr:meta name="github">laelath</fr:meta>
     <fr:meta name="orcid">0009-0007-7024-7331</fr:meta>
     <fr:meta name="position">PhD Student</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
     <fr:p>PhD Student in Programming Languages and Formal Verification in my 4th year at the University of Maryland College Park.
   Working with <fr:link type="local" href="leonidaslampropoulos.xml" addr="leonidaslampropoulos" title="Leonidas Lampropolous">Leonidas Lampropolous</fr:link> and <fr:link type="local" href="milijanasurbatovich.xml" addr="milijanasurbatovich" title="Milijana Surbatovich">Milijana Surbatovich</fr:link>.</fr:p>
+    <fr:p>In 2020 I obtained a bachelor of science in computer science from the <fr:link type="local" href="ubc.xml" addr="ubc" title="University of British Columbia">University of British Columbia</fr:link>, and worked with the <fr:link type="local" href="spl.xml" addr="spl" title="Software Practices Lab">SPL</fr:link> until starting with <fr:link type="local" href="plum.xml" addr="plum" title="Programming Languages at University of Maryland">PLUM</fr:link> in fall 2021.</fr:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
@@ -549,6 +549,35 @@ to "useful" functions.</fr:p>
           <fr:mainmatter />
           <fr:backmatter />
         </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>375</fr:anchor>
+            <fr:addr type="user">spl</fr:addr>
+            <fr:route>spl.xml</fr:route>
+            <fr:title text="Software Practices Lab">Software Practices Lab</fr:title>
+            <fr:taxon>Lab</fr:taxon>
+            <fr:authors />
+            <fr:meta name="venue">
+              <fr:link type="local" href="ubccs.xml" addr="ubccs" title="Computer Science at UBC">Computer Science at UBC</fr:link>
+            </fr:meta>
+            <fr:meta name="external">https://spl.cs.ubc.ca/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>376</fr:anchor>
+            <fr:addr type="user">ubc</fr:addr>
+            <fr:route>ubc.xml</fr:route>
+            <fr:title text="University of British Columbia">University of British Columbia</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+            <fr:authors />
+            <fr:meta name="external">https://ubc.ca/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+          <fr:backmatter />
+        </fr:tree>
       </fr:mainmatter>
       <fr:backmatter />
     </fr:tree>
@@ -560,7 +589,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>375</fr:anchor>
+            <fr:anchor>377</fr:anchor>
             <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
             <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
             <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -631,7 +660,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>379</fr:anchor>
+            <fr:anchor>381</fr:anchor>
             <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
             <fr:route>geller-frank-bowman-2024.xml</fr:route>
             <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -682,7 +711,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>383</fr:anchor>
+            <fr:anchor>385</fr:anchor>
             <fr:addr type="user">index</fr:addr>
             <fr:route>index.xml</fr:route>
             <fr:title text="Justine Frank">
@@ -1145,7 +1174,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>385</fr:anchor>
+            <fr:anchor>387</fr:anchor>
             <fr:addr type="user">jpf-events</fr:addr>
             <fr:route>jpf-events.xml</fr:route>
             <fr:title text="Attendances">Attendances</fr:title>
@@ -1408,7 +1437,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>387</fr:anchor>
+            <fr:anchor>389</fr:anchor>
             <fr:addr type="user">jpf-contact</fr:addr>
             <fr:route>jpf-contact.xml</fr:route>
             <fr:title text="Contact Info">Contact Info</fr:title>
@@ -1427,7 +1456,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>389</fr:anchor>
+            <fr:anchor>391</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>

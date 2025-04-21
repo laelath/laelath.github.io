@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>423</fr:anchor>
+    <fr:anchor>426</fr:anchor>
     <fr:addr type="machine">#244</fr:addr>
     <fr:route>unstable-244.xml</fr:route>
     <fr:title text="Attendances › Summer Schools"><fr:link type="local" href="jpf-events.xml" addr="jpf-events" title="Attendances">Attendances</fr:link> › Summer Schools</fr:title>
@@ -59,7 +59,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>425</fr:anchor>
+            <fr:anchor>428</fr:anchor>
             <fr:addr type="user">jpf-events</fr:addr>
             <fr:route>jpf-events.xml</fr:route>
             <fr:title text="Attendances">Attendances</fr:title>
