@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>311</fr:anchor>
+    <fr:anchor>369</fr:anchor>
     <fr:addr type="user">justinefrank</fr:addr>
     <fr:route>justinefrank.xml</fr:route>
     <fr:title text="Justine Frank">Justine Frank</fr:title>
@@ -29,7 +29,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>312</fr:anchor>
+            <fr:anchor>370</fr:anchor>
             <fr:addr type="user">index</fr:addr>
             <fr:route>index.xml</fr:route>
             <fr:title text="Justine Frank">
@@ -50,7 +50,7 @@
             <fr:p>In my free time I like to rock climb, bike, and occasionally build mechanical keyboards.</fr:p>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>283</fr:anchor>
+                <fr:anchor>335</fr:anchor>
                 <fr:addr type="user">jpf-contact</fr:addr>
                 <fr:route>jpf-contact.xml</fr:route>
                 <fr:title text="Contact Info">Contact Info</fr:title>
@@ -69,7 +69,7 @@
             </fr:tree>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>285</fr:anchor>
+                <fr:anchor>337</fr:anchor>
                 <fr:addr type="user">jpf-pubs</fr:addr>
                 <fr:route>jpf-pubs.xml</fr:route>
                 <fr:title text="Publications">Publications</fr:title>
@@ -83,7 +83,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>253</fr:anchor>
+                    <fr:anchor>285</fr:anchor>
                     <fr:addr type="machine">#242</fr:addr>
                     <fr:route>unstable-242.xml</fr:route>
                     <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -97,7 +97,7 @@
                   <fr:mainmatter>
                     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>255</fr:anchor>
+                        <fr:anchor>287</fr:anchor>
                         <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                         <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                         <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -168,7 +168,7 @@ to "useful" functions.</fr:p>
                     </fr:tree>
                     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>259</fr:anchor>
+                        <fr:anchor>291</fr:anchor>
                         <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                         <fr:route>geller-frank-bowman-2024.xml</fr:route>
                         <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -223,6 +223,270 @@ to "useful" functions.</fr:p>
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
+            <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>339</fr:anchor>
+                <fr:addr type="user">jpf-events</fr:addr>
+                <fr:route>jpf-events.xml</fr:route>
+                <fr:title text="Attendances">Attendances</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>253</fr:anchor>
+                    <fr:addr type="machine">#243</fr:addr>
+                    <fr:route>unstable-243.xml</fr:route>
+                    <fr:title text="Major Conferences">Major Conferences</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>255</fr:anchor>
+                        <fr:addr type="user">popl-2024</fr:addr>
+                        <fr:route>popl-2024.xml</fr:route>
+                        <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>1</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://popl24.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>256</fr:anchor>
+                        <fr:addr type="user">icfp-2023</fr:addr>
+                        <fr:route>icfp-2023.xml</fr:route>
+                        <fr:title text="ICFP ’23: 28th ACM SIGPLAN International Conference on Functional Programming"><fr:em>ICFP ’23</fr:em>: 28th ACM SIGPLAN International Conference on Functional Programming</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>9</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://icfp23.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>257</fr:anchor>
+                        <fr:addr type="user">popl-2023</fr:addr>
+                        <fr:route>popl-2023.xml</fr:route>
+                        <fr:title text="POPL ’23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’23</fr:em>: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>1</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://popl23.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation or application of programming languages.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>258</fr:anchor>
+                    <fr:addr type="machine">#244</fr:addr>
+                    <fr:route>unstable-244.xml</fr:route>
+                    <fr:title text="Summer Schools">Summer Schools</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>260</fr:anchor>
+                        <fr:addr type="user">oplss-2024</fr:addr>
+                        <fr:route>oplss-2024.xml</fr:route>
+                        <fr:title text="OPLSS ’24: Oregon Programming Languages Summer School 2024"><fr:em>OPLSS ’24</fr:em>: Oregon Programming Languages Summer School 2024</fr:title>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>6</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer24/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The program takes place over two weeks, with ample time for group and private study. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summerschool is sponsored by generous grants from numerous companies.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>261</fr:anchor>
+                        <fr:addr type="user">oplss-2022</fr:addr>
+                        <fr:route>oplss-2022.xml</fr:route>
+                        <fr:title text="OPLSS ’22: Oregon Programming Languages Summer School 2022"><fr:em>OPLSS ’22</fr:em>: Oregon Programming Languages Summer School 2022</fr:title>
+                        <fr:date>
+                          <fr:year>2022</fr:year>
+                          <fr:month>6</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer22/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summer school is sponsored by the <fr:link type="external" href="https://www.nsf.gov/">National Science Foundation</fr:link>, and by generous grants from numerous companies over the years.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>262</fr:anchor>
+                    <fr:addr type="machine">#245</fr:addr>
+                    <fr:route>unstable-245.xml</fr:route>
+                    <fr:title text="Regional Conferences">Regional Conferences</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>264</fr:anchor>
+                        <fr:addr type="user">njpls-05-2025</fr:addr>
+                        <fr:route>njpls-05-2025.xml</fr:route>
+                        <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>9</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2025.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>265</fr:anchor>
+                        <fr:addr type="user">njpls-12-2024</fr:addr>
+                        <fr:route>njpls-12-2024.xml</fr:route>
+                        <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>6</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/dec2024.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>266</fr:anchor>
+                        <fr:addr type="user">njpls-05-2024</fr:addr>
+                        <fr:route>njpls-05-2024.xml</fr:route>
+                        <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>10</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2024.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>267</fr:anchor>
+                        <fr:addr type="user">njpls-11-2023</fr:addr>
+                        <fr:route>njpls-11-2023.xml</fr:route>
+                        <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>11</fr:month>
+                          <fr:day>10</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/nov2023.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>268</fr:anchor>
+                        <fr:addr type="user">njpls-05-2023</fr:addr>
+                        <fr:route>njpls-05-2023.xml</fr:route>
+                        <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>19</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2023.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>269</fr:anchor>
+                        <fr:addr type="user">njpls-10-2022</fr:addr>
+                        <fr:route>njpls-10-2022.xml</fr:route>
+                        <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2022</fr:year>
+                          <fr:month>10</fr:month>
+                          <fr:day>22</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/oct22.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:p>If you recognize me from any of these events and want to chat please reach out!</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
@@ -237,7 +501,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>314</fr:anchor>
+            <fr:anchor>372</fr:anchor>
             <fr:addr type="user">leonidaslampropoulos</fr:addr>
             <fr:route>leonidaslampropoulos.xml</fr:route>
             <fr:title text="Leonidas Lampropolous">Leonidas Lampropolous</fr:title>
@@ -254,7 +518,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>315</fr:anchor>
+            <fr:anchor>373</fr:anchor>
             <fr:addr type="user">milijanasurbatovich</fr:addr>
             <fr:route>milijanasurbatovich.xml</fr:route>
             <fr:title text="Milijana Surbatovich">Milijana Surbatovich</fr:title>
@@ -271,7 +535,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>316</fr:anchor>
+            <fr:anchor>374</fr:anchor>
             <fr:addr type="user">plum</fr:addr>
             <fr:route>plum.xml</fr:route>
             <fr:title text="Programming Languages at University of Maryland">Programming Languages at University of Maryland</fr:title>
@@ -296,7 +560,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>317</fr:anchor>
+            <fr:anchor>375</fr:anchor>
             <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
             <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
             <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -367,7 +631,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>321</fr:anchor>
+            <fr:anchor>379</fr:anchor>
             <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
             <fr:route>geller-frank-bowman-2024.xml</fr:route>
             <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -418,7 +682,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>325</fr:anchor>
+            <fr:anchor>383</fr:anchor>
             <fr:addr type="user">index</fr:addr>
             <fr:route>index.xml</fr:route>
             <fr:title text="Justine Frank">
@@ -439,7 +703,7 @@ to "useful" functions.</fr:p>
             <fr:p>In my free time I like to rock climb, bike, and occasionally build mechanical keyboards.</fr:p>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>283</fr:anchor>
+                <fr:anchor>335</fr:anchor>
                 <fr:addr type="user">jpf-contact</fr:addr>
                 <fr:route>jpf-contact.xml</fr:route>
                 <fr:title text="Contact Info">Contact Info</fr:title>
@@ -458,7 +722,7 @@ to "useful" functions.</fr:p>
             </fr:tree>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>285</fr:anchor>
+                <fr:anchor>337</fr:anchor>
                 <fr:addr type="user">jpf-pubs</fr:addr>
                 <fr:route>jpf-pubs.xml</fr:route>
                 <fr:title text="Publications">Publications</fr:title>
@@ -472,7 +736,7 @@ to "useful" functions.</fr:p>
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>253</fr:anchor>
+                    <fr:anchor>285</fr:anchor>
                     <fr:addr type="machine">#242</fr:addr>
                     <fr:route>unstable-242.xml</fr:route>
                     <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -486,7 +750,7 @@ to "useful" functions.</fr:p>
                   <fr:mainmatter>
                     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>255</fr:anchor>
+                        <fr:anchor>287</fr:anchor>
                         <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                         <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                         <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -557,7 +821,7 @@ to "useful" functions.</fr:p>
                     </fr:tree>
                     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                       <fr:frontmatter>
-                        <fr:anchor>259</fr:anchor>
+                        <fr:anchor>291</fr:anchor>
                         <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                         <fr:route>geller-frank-bowman-2024.xml</fr:route>
                         <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -612,12 +876,539 @@ to "useful" functions.</fr:p>
               </fr:mainmatter>
               <fr:backmatter />
             </fr:tree>
+            <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>339</fr:anchor>
+                <fr:addr type="user">jpf-events</fr:addr>
+                <fr:route>jpf-events.xml</fr:route>
+                <fr:title text="Attendances">Attendances</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>253</fr:anchor>
+                    <fr:addr type="machine">#243</fr:addr>
+                    <fr:route>unstable-243.xml</fr:route>
+                    <fr:title text="Major Conferences">Major Conferences</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>255</fr:anchor>
+                        <fr:addr type="user">popl-2024</fr:addr>
+                        <fr:route>popl-2024.xml</fr:route>
+                        <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>1</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://popl24.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>256</fr:anchor>
+                        <fr:addr type="user">icfp-2023</fr:addr>
+                        <fr:route>icfp-2023.xml</fr:route>
+                        <fr:title text="ICFP ’23: 28th ACM SIGPLAN International Conference on Functional Programming"><fr:em>ICFP ’23</fr:em>: 28th ACM SIGPLAN International Conference on Functional Programming</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>9</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://icfp23.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>257</fr:anchor>
+                        <fr:addr type="user">popl-2023</fr:addr>
+                        <fr:route>popl-2023.xml</fr:route>
+                        <fr:title text="POPL ’23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’23</fr:em>: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>1</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://popl23.sigplan.org/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation or application of programming languages.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>258</fr:anchor>
+                    <fr:addr type="machine">#244</fr:addr>
+                    <fr:route>unstable-244.xml</fr:route>
+                    <fr:title text="Summer Schools">Summer Schools</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>260</fr:anchor>
+                        <fr:addr type="user">oplss-2024</fr:addr>
+                        <fr:route>oplss-2024.xml</fr:route>
+                        <fr:title text="OPLSS ’24: Oregon Programming Languages Summer School 2024"><fr:em>OPLSS ’24</fr:em>: Oregon Programming Languages Summer School 2024</fr:title>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>6</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer24/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The program takes place over two weeks, with ample time for group and private study. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summerschool is sponsored by generous grants from numerous companies.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>261</fr:anchor>
+                        <fr:addr type="user">oplss-2022</fr:addr>
+                        <fr:route>oplss-2022.xml</fr:route>
+                        <fr:title text="OPLSS ’22: Oregon Programming Languages Summer School 2022"><fr:em>OPLSS ’22</fr:em>: Oregon Programming Languages Summer School 2022</fr:title>
+                        <fr:date>
+                          <fr:year>2022</fr:year>
+                          <fr:month>6</fr:month>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer22/</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter>
+                        <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summer school is sponsored by the <fr:link type="external" href="https://www.nsf.gov/">National Science Foundation</fr:link>, and by generous grants from numerous companies over the years.</fr:p>
+                      </fr:mainmatter>
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>262</fr:anchor>
+                    <fr:addr type="machine">#245</fr:addr>
+                    <fr:route>unstable-245.xml</fr:route>
+                    <fr:title text="Regional Conferences">Regional Conferences</fr:title>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>264</fr:anchor>
+                        <fr:addr type="user">njpls-05-2025</fr:addr>
+                        <fr:route>njpls-05-2025.xml</fr:route>
+                        <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>9</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2025.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>265</fr:anchor>
+                        <fr:addr type="user">njpls-12-2024</fr:addr>
+                        <fr:route>njpls-12-2024.xml</fr:route>
+                        <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>12</fr:month>
+                          <fr:day>6</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/dec2024.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>266</fr:anchor>
+                        <fr:addr type="user">njpls-05-2024</fr:addr>
+                        <fr:route>njpls-05-2024.xml</fr:route>
+                        <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2024</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>10</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2024.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>267</fr:anchor>
+                        <fr:addr type="user">njpls-11-2023</fr:addr>
+                        <fr:route>njpls-11-2023.xml</fr:route>
+                        <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>11</fr:month>
+                          <fr:day>10</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/nov2023.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>268</fr:anchor>
+                        <fr:addr type="user">njpls-05-2023</fr:addr>
+                        <fr:route>njpls-05-2023.xml</fr:route>
+                        <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2023</fr:year>
+                          <fr:month>5</fr:month>
+                          <fr:day>19</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/may2023.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                    <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                      <fr:frontmatter>
+                        <fr:anchor>269</fr:anchor>
+                        <fr:addr type="user">njpls-10-2022</fr:addr>
+                        <fr:route>njpls-10-2022.xml</fr:route>
+                        <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                        <fr:taxon>Conference</fr:taxon>
+                        <fr:date>
+                          <fr:year>2022</fr:year>
+                          <fr:month>10</fr:month>
+                          <fr:day>22</fr:day>
+                        </fr:date>
+                        <fr:authors />
+                        <fr:meta name="external">https://njpls.org/oct22.html</fr:meta>
+                      </fr:frontmatter>
+                      <fr:mainmatter />
+                      <fr:backmatter />
+                    </fr:tree>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:p>If you recognize me from any of these events and want to chat please reach out!</fr:p>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>327</fr:anchor>
+            <fr:anchor>385</fr:anchor>
+            <fr:addr type="user">jpf-events</fr:addr>
+            <fr:route>jpf-events.xml</fr:route>
+            <fr:title text="Attendances">Attendances</fr:title>
+            <fr:authors>
+              <fr:author>
+                <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+              </fr:author>
+            </fr:authors>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>253</fr:anchor>
+                <fr:addr type="machine">#243</fr:addr>
+                <fr:route>unstable-243.xml</fr:route>
+                <fr:title text="Major Conferences">Major Conferences</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>255</fr:anchor>
+                    <fr:addr type="user">popl-2024</fr:addr>
+                    <fr:route>popl-2024.xml</fr:route>
+                    <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                      <fr:month>1</fr:month>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://popl24.sigplan.org/</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>256</fr:anchor>
+                    <fr:addr type="user">icfp-2023</fr:addr>
+                    <fr:route>icfp-2023.xml</fr:route>
+                    <fr:title text="ICFP ’23: 28th ACM SIGPLAN International Conference on Functional Programming"><fr:em>ICFP ’23</fr:em>: 28th ACM SIGPLAN International Conference on Functional Programming</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                      <fr:month>9</fr:month>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://icfp23.sigplan.org/</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>257</fr:anchor>
+                    <fr:addr type="user">popl-2023</fr:addr>
+                    <fr:route>popl-2023.xml</fr:route>
+                    <fr:title text="POPL ’23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’23</fr:em>: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                      <fr:month>1</fr:month>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://popl23.sigplan.org/</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation or application of programming languages.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>258</fr:anchor>
+                <fr:addr type="machine">#244</fr:addr>
+                <fr:route>unstable-244.xml</fr:route>
+                <fr:title text="Summer Schools">Summer Schools</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>260</fr:anchor>
+                    <fr:addr type="user">oplss-2024</fr:addr>
+                    <fr:route>oplss-2024.xml</fr:route>
+                    <fr:title text="OPLSS ’24: Oregon Programming Languages Summer School 2024"><fr:em>OPLSS ’24</fr:em>: Oregon Programming Languages Summer School 2024</fr:title>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                      <fr:month>6</fr:month>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer24/</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The program takes place over two weeks, with ample time for group and private study. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summerschool is sponsored by generous grants from numerous companies.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>261</fr:anchor>
+                    <fr:addr type="user">oplss-2022</fr:addr>
+                    <fr:route>oplss-2022.xml</fr:route>
+                    <fr:title text="OPLSS ’22: Oregon Programming Languages Summer School 2022"><fr:em>OPLSS ’22</fr:em>: Oregon Programming Languages Summer School 2022</fr:title>
+                    <fr:date>
+                      <fr:year>2022</fr:year>
+                      <fr:month>6</fr:month>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://www.cs.uoregon.edu/research/summerschool/summer22/</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>The Oregon Programming Languages Summer School has been devoted for twenty years to teaching the principles of programming languages to students and professionals. Although the topics vary from year to year, the unifying theme is the importance of fundamental theory to the design and implementation of programming languages, the development of program verification tools, and the application of advanced programming languages to practice. The summer school attracts participants from around the world, and is often able to subsidize the participation of qualified attendees with limited resources. More than a thousand participants have attended OPLSS since its inception in 2002. The summer school is sponsored by the <fr:link type="external" href="https://www.nsf.gov/">National Science Foundation</fr:link>, and by generous grants from numerous companies over the years.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>262</fr:anchor>
+                <fr:addr type="machine">#245</fr:addr>
+                <fr:route>unstable-245.xml</fr:route>
+                <fr:title text="Regional Conferences">Regional Conferences</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>264</fr:anchor>
+                    <fr:addr type="user">njpls-05-2025</fr:addr>
+                    <fr:route>njpls-05-2025.xml</fr:route>
+                    <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                      <fr:month>5</fr:month>
+                      <fr:day>9</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/may2025.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>265</fr:anchor>
+                    <fr:addr type="user">njpls-12-2024</fr:addr>
+                    <fr:route>njpls-12-2024.xml</fr:route>
+                    <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                      <fr:month>12</fr:month>
+                      <fr:day>6</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/dec2024.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>266</fr:anchor>
+                    <fr:addr type="user">njpls-05-2024</fr:addr>
+                    <fr:route>njpls-05-2024.xml</fr:route>
+                    <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                      <fr:month>5</fr:month>
+                      <fr:day>10</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/may2024.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>267</fr:anchor>
+                    <fr:addr type="user">njpls-11-2023</fr:addr>
+                    <fr:route>njpls-11-2023.xml</fr:route>
+                    <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                      <fr:month>11</fr:month>
+                      <fr:day>10</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/nov2023.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>268</fr:anchor>
+                    <fr:addr type="user">njpls-05-2023</fr:addr>
+                    <fr:route>njpls-05-2023.xml</fr:route>
+                    <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                      <fr:month>5</fr:month>
+                      <fr:day>19</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/may2023.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+                <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>269</fr:anchor>
+                    <fr:addr type="user">njpls-10-2022</fr:addr>
+                    <fr:route>njpls-10-2022.xml</fr:route>
+                    <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
+                    <fr:taxon>Conference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2022</fr:year>
+                      <fr:month>10</fr:month>
+                      <fr:day>22</fr:day>
+                    </fr:date>
+                    <fr:authors />
+                    <fr:meta name="external">https://njpls.org/oct22.html</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+          </fr:mainmatter>
+          <fr:backmatter />
+        </fr:tree>
+        <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+          <fr:frontmatter>
+            <fr:anchor>387</fr:anchor>
             <fr:addr type="user">jpf-contact</fr:addr>
             <fr:route>jpf-contact.xml</fr:route>
             <fr:title text="Contact Info">Contact Info</fr:title>
@@ -636,7 +1427,7 @@ to "useful" functions.</fr:p>
         </fr:tree>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>329</fr:anchor>
+            <fr:anchor>389</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>
@@ -650,7 +1441,7 @@ to "useful" functions.</fr:p>
           <fr:mainmatter>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>253</fr:anchor>
+                <fr:anchor>285</fr:anchor>
                 <fr:addr type="machine">#242</fr:addr>
                 <fr:route>unstable-242.xml</fr:route>
                 <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -664,7 +1455,7 @@ to "useful" functions.</fr:p>
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>255</fr:anchor>
+                    <fr:anchor>287</fr:anchor>
                     <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                     <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                     <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -735,7 +1526,7 @@ to "useful" functions.</fr:p>
                 </fr:tree>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>259</fr:anchor>
+                    <fr:anchor>291</fr:anchor>
                     <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                     <fr:route>geller-frank-bowman-2024.xml</fr:route>
                     <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>

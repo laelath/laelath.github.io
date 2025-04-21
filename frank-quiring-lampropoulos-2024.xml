@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>247</fr:anchor>
+    <fr:anchor>279</fr:anchor>
     <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
     <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
     <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -78,7 +78,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>251</fr:anchor>
+            <fr:anchor>283</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>
@@ -92,7 +92,7 @@ to "useful" functions.</fr:p>
           <fr:mainmatter>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>253</fr:anchor>
+                <fr:anchor>285</fr:anchor>
                 <fr:addr type="machine">#242</fr:addr>
                 <fr:route>unstable-242.xml</fr:route>
                 <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -106,7 +106,7 @@ to "useful" functions.</fr:p>
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>255</fr:anchor>
+                    <fr:anchor>287</fr:anchor>
                     <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                     <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                     <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -177,7 +177,7 @@ to "useful" functions.</fr:p>
                 </fr:tree>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>259</fr:anchor>
+                    <fr:anchor>291</fr:anchor>
                     <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                     <fr:route>geller-frank-bowman-2024.xml</fr:route>
                     <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -243,7 +243,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>263</fr:anchor>
+            <fr:anchor>295</fr:anchor>
             <fr:addr type="user">popl-2024</fr:addr>
             <fr:route>popl-2024.xml</fr:route>
             <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
@@ -257,8 +257,6 @@ to "useful" functions.</fr:p>
           </fr:frontmatter>
           <fr:mainmatter>
             <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.</fr:p>
-            <fr:ul><fr:li>Conditional Acceptance Notification: <fr:link type="external" href="2023-10-02">2023-10-02</fr:link></fr:li>
-  <fr:li>Revised Submission Deadline: 2023-10-26</fr:li></fr:ul>
           </fr:mainmatter>
           <fr:backmatter />
         </fr:tree>

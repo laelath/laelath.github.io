@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>288</fr:anchor>
+    <fr:anchor>342</fr:anchor>
     <fr:addr type="machine">#242</fr:addr>
     <fr:route>unstable-242.xml</fr:route>
     <fr:title text="Publications › Accepted papers"><fr:link type="local" href="jpf-pubs.xml" addr="jpf-pubs" title="Publications">Publications</fr:link> › Accepted papers</fr:title>
@@ -16,7 +16,7 @@
   <fr:mainmatter>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>255</fr:anchor>
+        <fr:anchor>287</fr:anchor>
         <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
         <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
         <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -87,7 +87,7 @@ to "useful" functions.</fr:p>
     </fr:tree>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>259</fr:anchor>
+        <fr:anchor>291</fr:anchor>
         <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
         <fr:route>geller-frank-bowman-2024.xml</fr:route>
         <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -146,7 +146,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>290</fr:anchor>
+            <fr:anchor>344</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>
@@ -160,7 +160,7 @@ to "useful" functions.</fr:p>
           <fr:mainmatter>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>253</fr:anchor>
+                <fr:anchor>285</fr:anchor>
                 <fr:addr type="machine">#242</fr:addr>
                 <fr:route>unstable-242.xml</fr:route>
                 <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -174,7 +174,7 @@ to "useful" functions.</fr:p>
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>255</fr:anchor>
+                    <fr:anchor>287</fr:anchor>
                     <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                     <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                     <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -245,7 +245,7 @@ to "useful" functions.</fr:p>
                 </fr:tree>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>259</fr:anchor>
+                    <fr:anchor>291</fr:anchor>
                     <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                     <fr:route>geller-frank-bowman-2024.xml</fr:route>
                     <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
