@@ -425,7 +425,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2025</fr:addr>
                         <fr:route>njpls-05-2025.xml</fr:route>
                         <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>5</fr:month>
@@ -443,7 +443,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-12-2024</fr:addr>
                         <fr:route>njpls-12-2024.xml</fr:route>
                         <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>12</fr:month>
@@ -461,7 +461,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2024</fr:addr>
                         <fr:route>njpls-05-2024.xml</fr:route>
                         <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>5</fr:month>
@@ -479,7 +479,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-11-2023</fr:addr>
                         <fr:route>njpls-11-2023.xml</fr:route>
                         <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2023</fr:year>
                           <fr:month>11</fr:month>
@@ -497,7 +497,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2023</fr:addr>
                         <fr:route>njpls-05-2023.xml</fr:route>
                         <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2023</fr:year>
                           <fr:month>5</fr:month>
@@ -515,7 +515,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-10-2022</fr:addr>
                         <fr:route>njpls-10-2022.xml</fr:route>
                         <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2022</fr:year>
                           <fr:month>10</fr:month>
@@ -1184,7 +1184,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2025</fr:addr>
                         <fr:route>njpls-05-2025.xml</fr:route>
                         <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>5</fr:month>
@@ -1202,7 +1202,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-12-2024</fr:addr>
                         <fr:route>njpls-12-2024.xml</fr:route>
                         <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>12</fr:month>
@@ -1220,7 +1220,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2024</fr:addr>
                         <fr:route>njpls-05-2024.xml</fr:route>
                         <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2024</fr:year>
                           <fr:month>5</fr:month>
@@ -1238,7 +1238,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-11-2023</fr:addr>
                         <fr:route>njpls-11-2023.xml</fr:route>
                         <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2023</fr:year>
                           <fr:month>11</fr:month>
@@ -1256,7 +1256,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-05-2023</fr:addr>
                         <fr:route>njpls-05-2023.xml</fr:route>
                         <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2023</fr:year>
                           <fr:month>5</fr:month>
@@ -1274,7 +1274,7 @@ to "useful" functions.</fr:p>
                         <fr:addr type="user">njpls-10-2022</fr:addr>
                         <fr:route>njpls-10-2022.xml</fr:route>
                         <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                        <fr:taxon>Conference</fr:taxon>
+                        <fr:taxon>Seminar</fr:taxon>
                         <fr:date>
                           <fr:year>2022</fr:year>
                           <fr:month>10</fr:month>
@@ -1451,7 +1451,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-05-2025</fr:addr>
                     <fr:route>njpls-05-2025.xml</fr:route>
                     <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2024</fr:year>
                       <fr:month>5</fr:month>
@@ -1469,7 +1469,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-12-2024</fr:addr>
                     <fr:route>njpls-12-2024.xml</fr:route>
                     <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2024</fr:year>
                       <fr:month>12</fr:month>
@@ -1487,7 +1487,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-05-2024</fr:addr>
                     <fr:route>njpls-05-2024.xml</fr:route>
                     <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2024</fr:year>
                       <fr:month>5</fr:month>
@@ -1505,7 +1505,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-11-2023</fr:addr>
                     <fr:route>njpls-11-2023.xml</fr:route>
                     <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2023</fr:year>
                       <fr:month>11</fr:month>
@@ -1523,7 +1523,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-05-2023</fr:addr>
                     <fr:route>njpls-05-2023.xml</fr:route>
                     <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2023</fr:year>
                       <fr:month>5</fr:month>
@@ -1541,7 +1541,7 @@ to "useful" functions.</fr:p>
                     <fr:addr type="user">njpls-10-2022</fr:addr>
                     <fr:route>njpls-10-2022.xml</fr:route>
                     <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
-                    <fr:taxon>Conference</fr:taxon>
+                    <fr:taxon>Seminar</fr:taxon>
                     <fr:date>
                       <fr:year>2022</fr:year>
                       <fr:month>10</fr:month>
