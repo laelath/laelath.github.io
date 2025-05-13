@@ -2,72 +2,31 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>301</fr:anchor>
-    <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
-    <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
-    <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
+    <fr:anchor>250</fr:anchor>
+    <fr:addr type="user">frank-njpls-2025-05</fr:addr>
+    <fr:route>frank-njpls-2025-05.xml</fr:route>
+    <fr:title text="Indistinguishability Reasoning for Interaction Trees">Indistinguishability Reasoning for Interaction Trees</fr:title>
     <fr:taxon>Reference</fr:taxon>
     <fr:date>
-      <fr:year>2024</fr:year>
-      <fr:month>1</fr:month>
-      <fr:day>5</fr:day>
+      <fr:year>2025</fr:year>
+      <fr:month>5</fr:month>
+      <fr:day>9</fr:day>
     </fr:date>
     <fr:authors>
       <fr:author>
         <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
       </fr:author>
-      <fr:author>
-        <fr:link type="local" href="benjaminquiring.xml" addr="benjaminquiring" title="Benjamin Quiring">Benjamin Quiring</fr:link>
-      </fr:author>
-      <fr:author>
-        <fr:link type="local" href="leonidaslampropoulos.xml" addr="leonidaslampropoulos" title="Leonidas Lampropolous">Leonidas Lampropolous</fr:link>
-      </fr:author>
     </fr:authors>
-    <fr:meta name="doi">10.1145/3632919</fr:meta>
-    <fr:meta name="venue">
-      <fr:link type="local" href="popl-2024.xml" addr="popl-2024" title="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:link>
+    <fr:meta name="slides">
+      <fr:link type="external" href="njpls-tutt-slides.pdf">njpls-tutt-slides.pdf</fr:link>
     </fr:meta>
-    <fr:meta name="video">https://youtu.be/KkE-wVqUbVQ</fr:meta>
-    <fr:meta name="bibtex"><![CDATA[@article{10.1145/3632919,
-  author = {Frank, Justin and Quiring, Benjamin and Lampropoulos, Leonidas},
-  title = {Generating Well-Typed Terms That Are Not “Useless”},
-  year = {2024},
-  issue_date = {January 2024},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  volume = {8},
-  number = {POPL},
-  url = {https://doi.org/10.1145/3632919},
-  doi = {10.1145/3632919},
-  abstract = {},
-  journal = {Proc. ACM Program. Lang.},
-  month = jan,
-  articleno = {77},
-  numpages = {22},
-  keywords = {property-based testing, test generation, well-typed lambda terms}
-}]]></fr:meta>
+    <fr:meta name="venue">
+      <fr:link type="local" href="njpls-05-2025.xml" addr="njpls-05-2025" title="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:link>
+    </fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:p>Random generation of well-typed terms lies at the core of effective  
-random testing of compilers for functional languages.  
-Existing techniques have had success following a top-down  
-type-oriented approach to generation that makes choices locally, which  
-suffers from an inherent limitation: the type of an expression is  
-often generated independently from the expression itself.  
-Such generation frequently yields functions with argument types that cannot  
-be used to produce a result in a meaningful way, leaving those  
-arguments unused.  
-Such "use-less" functions can hinder both performance, as the  
-argument generation code is dead but still needs to be compiled, and  
-effectiveness, as a lot of interesting optimizations are tested less  
-frequently.</fr:p>
-    <fr:p>In this paper, we introduce a novel algorithm that is significantly  
-more effective at generating functions that use their arguments.  
-We formalize both the "local" and the "nonlocal" algorithms as  
-step-relations in an extension of the simply-typed lambda calculus  
-with type and arguments holes, showing how delaying the generation of  
-types for subexpressions by allowing nonlocal generation steps leads  
-to "useful" functions.</fr:p>
+    <fr:p>Interaction trees are an increasingly popular way to define and reason about the semantics of non-terminating, effectful, first-order programming languages using layered monadic interpreters. They have a rich equational theory for reasoning up to strong- or weak-bisimulation. However, for some applications, like crash recovery systems, bisimulation is too strong; the desired property is not that two computations behave the same, but that they will be indistinguishable---they will never be observed behaving differently.</fr:p>
+    <fr:p>To enable reasoning about indistinguishability, we develop tolerance-up-to-taus (tutt); an extension of equivalence-up-to-taus (eutt) that allows removing an infinite number of taus from either side. We draw out the insight that the tutt relation thus has a nice property of being a middle point in between termination-sensitive and termination-insensitive reasoning, permitting reasoning about computations that do not terminate yet continuously perform observable effects. A key challenge of working with tutt is that, unlike eutt, this relation does not admit transitivity; however, we show that it is compatible with existing ITree "up-to" reasoning, allowing rewriting by bisimulation equivalences while proving tutt, and supports reasoning up-to bind. Finally, we showcase the usefulness of tutt by demonstrating a proof of indistinguishability of crash-recovering executions of a program.</fr:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree toc="false" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
@@ -78,7 +37,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>305</fr:anchor>
+            <fr:anchor>252</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>
@@ -290,21 +249,20 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>307</fr:anchor>
-            <fr:addr type="user">popl-2024</fr:addr>
-            <fr:route>popl-2024.xml</fr:route>
-            <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
+            <fr:anchor>268</fr:anchor>
+            <fr:addr type="user">njpls-05-2025</fr:addr>
+            <fr:route>njpls-05-2025.xml</fr:route>
+            <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
             <fr:taxon>Conference</fr:taxon>
             <fr:date>
               <fr:year>2024</fr:year>
-              <fr:month>1</fr:month>
+              <fr:month>5</fr:month>
+              <fr:day>9</fr:day>
             </fr:date>
             <fr:authors />
-            <fr:meta name="external">https://popl24.sigplan.org/</fr:meta>
+            <fr:meta name="external">https://njpls.org/may2025.html</fr:meta>
           </fr:frontmatter>
-          <fr:mainmatter>
-            <fr:p>The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems. Both theoretical and experimental papers are welcome on topics ranging from formal frameworks to experience reports. We seek submissions that make principled, enduring contributions to the theory, design, understanding, implementation, or application of programming languages.</fr:p>
-          </fr:mainmatter>
+          <fr:mainmatter />
           <fr:backmatter />
         </fr:tree>
       </fr:mainmatter>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>326</fr:anchor>
+    <fr:anchor>338</fr:anchor>
     <fr:addr type="user">njpls-10-2022</fr:addr>
     <fr:route>njpls-10-2022.xml</fr:route>
     <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -25,7 +25,7 @@
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>327</fr:anchor>
+            <fr:anchor>339</fr:anchor>
             <fr:addr type="user">jpf-events</fr:addr>
             <fr:route>jpf-events.xml</fr:route>
             <fr:title text="Attendances">Attendances</fr:title>
@@ -38,10 +38,10 @@
           <fr:mainmatter>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>253</fr:anchor>
-                <fr:addr type="machine">#243</fr:addr>
-                <fr:route>unstable-243.xml</fr:route>
-                <fr:title text="Major Conferences">Major Conferences</fr:title>
+                <fr:anchor>273</fr:anchor>
+                <fr:addr type="machine">#244</fr:addr>
+                <fr:route>unstable-244.xml</fr:route>
+                <fr:title text="Conferences">Conferences</fr:title>
                 <fr:authors>
                   <fr:author>
                     <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
@@ -51,7 +51,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>255</fr:anchor>
+                    <fr:anchor>275</fr:anchor>
                     <fr:addr type="user">popl-2024</fr:addr>
                     <fr:route>popl-2024.xml</fr:route>
                     <fr:title text="POPL ’24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’24</fr:em>: 51st ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
@@ -70,7 +70,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>256</fr:anchor>
+                    <fr:anchor>276</fr:anchor>
                     <fr:addr type="user">icfp-2023</fr:addr>
                     <fr:route>icfp-2023.xml</fr:route>
                     <fr:title text="ICFP ’23: 28th ACM SIGPLAN International Conference on Functional Programming"><fr:em>ICFP ’23</fr:em>: 28th ACM SIGPLAN International Conference on Functional Programming</fr:title>
@@ -87,7 +87,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>257</fr:anchor>
+                    <fr:anchor>277</fr:anchor>
                     <fr:addr type="user">popl-2023</fr:addr>
                     <fr:route>popl-2023.xml</fr:route>
                     <fr:title text="POPL ’23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages"><fr:em>POPL ’23</fr:em>: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</fr:title>
@@ -109,9 +109,9 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>258</fr:anchor>
-                <fr:addr type="machine">#244</fr:addr>
-                <fr:route>unstable-244.xml</fr:route>
+                <fr:anchor>278</fr:anchor>
+                <fr:addr type="machine">#245</fr:addr>
+                <fr:route>unstable-245.xml</fr:route>
                 <fr:title text="Summer Schools">Summer Schools</fr:title>
                 <fr:authors>
                   <fr:author>
@@ -122,7 +122,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>260</fr:anchor>
+                    <fr:anchor>280</fr:anchor>
                     <fr:addr type="user">oplss-2024</fr:addr>
                     <fr:route>oplss-2024.xml</fr:route>
                     <fr:title text="OPLSS ’24: Oregon Programming Languages Summer School 2024"><fr:em>OPLSS ’24</fr:em>: Oregon Programming Languages Summer School 2024</fr:title>
@@ -140,7 +140,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>261</fr:anchor>
+                    <fr:anchor>281</fr:anchor>
                     <fr:addr type="user">oplss-2022</fr:addr>
                     <fr:route>oplss-2022.xml</fr:route>
                     <fr:title text="OPLSS ’22: Oregon Programming Languages Summer School 2022"><fr:em>OPLSS ’22</fr:em>: Oregon Programming Languages Summer School 2022</fr:title>
@@ -161,10 +161,10 @@
             </fr:tree>
             <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>262</fr:anchor>
-                <fr:addr type="machine">#245</fr:addr>
-                <fr:route>unstable-245.xml</fr:route>
-                <fr:title text="Regional Conferences">Regional Conferences</fr:title>
+                <fr:anchor>282</fr:anchor>
+                <fr:addr type="machine">#246</fr:addr>
+                <fr:route>unstable-246.xml</fr:route>
+                <fr:title text="Seminars">Seminars</fr:title>
                 <fr:authors>
                   <fr:author>
                     <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
@@ -174,7 +174,7 @@
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>264</fr:anchor>
+                    <fr:anchor>284</fr:anchor>
                     <fr:addr type="user">njpls-05-2025</fr:addr>
                     <fr:route>njpls-05-2025.xml</fr:route>
                     <fr:title text="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -192,7 +192,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>265</fr:anchor>
+                    <fr:anchor>285</fr:anchor>
                     <fr:addr type="user">njpls-12-2024</fr:addr>
                     <fr:route>njpls-12-2024.xml</fr:route>
                     <fr:title text="NJPLS Dec'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Dec'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -210,7 +210,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>266</fr:anchor>
+                    <fr:anchor>286</fr:anchor>
                     <fr:addr type="user">njpls-05-2024</fr:addr>
                     <fr:route>njpls-05-2024.xml</fr:route>
                     <fr:title text="NJPLS May'24: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'24</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -228,7 +228,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>267</fr:anchor>
+                    <fr:anchor>287</fr:anchor>
                     <fr:addr type="user">njpls-11-2023</fr:addr>
                     <fr:route>njpls-11-2023.xml</fr:route>
                     <fr:title text="NJPLS Nov'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Nov'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -246,7 +246,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>268</fr:anchor>
+                    <fr:anchor>288</fr:anchor>
                     <fr:addr type="user">njpls-05-2023</fr:addr>
                     <fr:route>njpls-05-2023.xml</fr:route>
                     <fr:title text="NJPLS May'23: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'23</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>
@@ -264,7 +264,7 @@
                 </fr:tree>
                 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>269</fr:anchor>
+                    <fr:anchor>289</fr:anchor>
                     <fr:addr type="user">njpls-10-2022</fr:addr>
                     <fr:route>njpls-10-2022.xml</fr:route>
                     <fr:title text="NJPLS Oct'22: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS Oct'22</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:title>

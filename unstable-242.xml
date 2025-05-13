@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
 <fr:tree toc="true" numbered="true" show-heading="true" show-metadata="true" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
   <fr:frontmatter>
-    <fr:anchor>342</fr:anchor>
+    <fr:anchor>354</fr:anchor>
     <fr:addr type="machine">#242</fr:addr>
     <fr:route>unstable-242.xml</fr:route>
     <fr:title text="Publications › Accepted papers"><fr:link type="local" href="jpf-pubs.xml" addr="jpf-pubs" title="Publications">Publications</fr:link> › Accepted papers</fr:title>
@@ -16,7 +16,7 @@
   <fr:mainmatter>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>287</fr:anchor>
+        <fr:anchor>256</fr:anchor>
         <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
         <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
         <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -87,7 +87,7 @@ to "useful" functions.</fr:p>
     </fr:tree>
     <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
       <fr:frontmatter>
-        <fr:anchor>291</fr:anchor>
+        <fr:anchor>260</fr:anchor>
         <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
         <fr:route>geller-frank-bowman-2024.xml</fr:route>
         <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -146,7 +146,7 @@ to "useful" functions.</fr:p>
       <fr:mainmatter>
         <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
           <fr:frontmatter>
-            <fr:anchor>344</fr:anchor>
+            <fr:anchor>356</fr:anchor>
             <fr:addr type="user">jpf-pubs</fr:addr>
             <fr:route>jpf-pubs.xml</fr:route>
             <fr:title text="Publications">Publications</fr:title>
@@ -160,7 +160,7 @@ to "useful" functions.</fr:p>
           <fr:mainmatter>
             <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
               <fr:frontmatter>
-                <fr:anchor>285</fr:anchor>
+                <fr:anchor>254</fr:anchor>
                 <fr:addr type="machine">#242</fr:addr>
                 <fr:route>unstable-242.xml</fr:route>
                 <fr:title text="Accepted papers">Accepted papers</fr:title>
@@ -174,7 +174,7 @@ to "useful" functions.</fr:p>
               <fr:mainmatter>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>287</fr:anchor>
+                    <fr:anchor>256</fr:anchor>
                     <fr:addr type="user">frank-quiring-lampropoulos-2024</fr:addr>
                     <fr:route>frank-quiring-lampropoulos-2024.xml</fr:route>
                     <fr:title text="Generating Well-Typed Terms That Are Not “Useless”">Generating Well-Typed Terms That Are Not “Useless”</fr:title>
@@ -245,7 +245,7 @@ to "useful" functions.</fr:p>
                 </fr:tree>
                 <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
                   <fr:frontmatter>
-                    <fr:anchor>291</fr:anchor>
+                    <fr:anchor>260</fr:anchor>
                     <fr:addr type="user">geller-frank-bowman-2024</fr:addr>
                     <fr:route>geller-frank-bowman-2024.xml</fr:route>
                     <fr:title text="Indexed Types for a Statically Safe WebAssembly">Indexed Types for a Statically Safe WebAssembly</fr:title>
@@ -291,6 +291,53 @@ to "useful" functions.</fr:p>
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <fr:p>We present Wasm-prechk, a superset of WebAssembly (Wasm) that uses indexed types to express and check simple constraints over program values. This additional static reasoning enables safely removing dynamic safety checks from Wasm, such as memory bounds checks. We implement Wasm-prechk as an extension of the Wasmtime compiler and runtime, evaluate the run-time and compile-time performance of Wasm-prechk vs WebAssembly configurations with explicit dynamic checks, and find an average run-time performance gain of 1.71x faster in the widely used PolyBenchC benchmark suite, for a small overhead in binary size (7.18% larger) and type-checking time (1.4% slower). We also prove type and memory safety of Wasm-prechk, prove Wasm safely embeds into Wasm-prechk ensuring backwards compatibility, prove Wasm-prechk type-erases to Wasm, and discuss design and implementation trade-offs.</fr:p>
+                  </fr:mainmatter>
+                  <fr:backmatter />
+                </fr:tree>
+              </fr:mainmatter>
+              <fr:backmatter />
+            </fr:tree>
+            <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="false" expanded="true" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+              <fr:frontmatter>
+                <fr:anchor>264</fr:anchor>
+                <fr:addr type="machine">#243</fr:addr>
+                <fr:route>unstable-243.xml</fr:route>
+                <fr:title text="Presentations">Presentations</fr:title>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:meta name="author">false</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree toc="true" numbered="false" show-heading="true" show-metadata="true" expanded="false" root="false" xmlns:fr="http://www.jonmsterling.com/jms-005P.xml">
+                  <fr:frontmatter>
+                    <fr:anchor>266</fr:anchor>
+                    <fr:addr type="user">frank-njpls-2025-05</fr:addr>
+                    <fr:route>frank-njpls-2025-05.xml</fr:route>
+                    <fr:title text="Indistinguishability Reasoning for Interaction Trees">Indistinguishability Reasoning for Interaction Trees</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>5</fr:month>
+                      <fr:day>9</fr:day>
+                    </fr:date>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link type="local" href="justinefrank.xml" addr="justinefrank" title="Justine Frank">Justine Frank</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:meta name="slides">
+                      <fr:link type="external" href="njpls-tutt-slides.pdf">njpls-tutt-slides.pdf</fr:link>
+                    </fr:meta>
+                    <fr:meta name="venue">
+                      <fr:link type="local" href="njpls-05-2025.xml" addr="njpls-05-2025" title="NJPLS May'25: New Jersey Programming Languages and Systems Seminar"><fr:em>NJPLS May'25</fr:em>: New Jersey Programming Languages and Systems Seminar</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <fr:p>Interaction trees are an increasingly popular way to define and reason about the semantics of non-terminating, effectful, first-order programming languages using layered monadic interpreters. They have a rich equational theory for reasoning up to strong- or weak-bisimulation. However, for some applications, like crash recovery systems, bisimulation is too strong; the desired property is not that two computations behave the same, but that they will be indistinguishable---they will never be observed behaving differently.</fr:p>
+                    <fr:p>To enable reasoning about indistinguishability, we develop tolerance-up-to-taus (tutt); an extension of equivalence-up-to-taus (eutt) that allows removing an infinite number of taus from either side. We draw out the insight that the tutt relation thus has a nice property of being a middle point in between termination-sensitive and termination-insensitive reasoning, permitting reasoning about computations that do not terminate yet continuously perform observable effects. A key challenge of working with tutt is that, unlike eutt, this relation does not admit transitivity; however, we show that it is compatible with existing ITree "up-to" reasoning, allowing rewriting by bisimulation equivalences while proving tutt, and supports reasoning up-to bind. Finally, we showcase the usefulness of tutt by demonstrating a proof of indistinguishability of crash-recovering executions of a program.</fr:p>
                   </fr:mainmatter>
                   <fr:backmatter />
                 </fr:tree>
